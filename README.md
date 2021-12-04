@@ -1,4 +1,4 @@
-# WildHack ![Awesome](https://drive.google.com/file/d/1R09enatJDJKdKE_TpIHxwl52w4oD60pc/view?usp=sharing)
+# WildHack ![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)
 
 Исключительно в оброзовательных целях
 
