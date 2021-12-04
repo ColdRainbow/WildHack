@@ -1,6 +1,6 @@
 <img src="icon.png" align="right" />
 
-# Awesome README [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome#readme)
+# WildHack [![Awesome](https://user-images.githubusercontent.com/49564849/144710939-3ab1eac9-32c6-43b4-ad93-b1a14d4daa28.png)]
 
 Исключительно в оброзовательных целях
 
