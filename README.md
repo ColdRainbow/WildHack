@@ -13,10 +13,6 @@
 
 -------------
 
-## Creating GIFs
-
-- [Peek](https://github.com/phw/peek#readme) - **FREE** - Simple and easy to use for Linux users.
-
 ## Contribute
 
 -------------
